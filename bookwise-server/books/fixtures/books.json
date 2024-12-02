@@ -1,0 +1,180 @@
+[
+    {
+        "model": "books.book",
+        "fields": {
+            "name": "14 Hábitos de Desenvolvedores Altamente Produtivos",
+            "author": "Zeno Rocha",
+            "summary": "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
+            "cover": "books/covers/14-habitos-de-desenvolvedores-altamente-produtivos.png",
+            "total_pages": 160,
+            "categories": [ "f1a50507-0aa7-4245-8a5c-0d0de14e9d6d", "c9f22067-4978-4a24-84a1-7d37f343dfc2"]
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "name": "O Hobbit",
+            "author": "J.R.R. Tolkien",
+            "summary":"Semper et sapien proin vitae nisi. Feugiat neque integer donec et aenean posuere amet ultrices. Cras fermentum id pulvinar varius leo a in. Amet libero pharetra nunc elementum fringilla velit ipsum. Sed vulputate massa velit nibh",
+            "cover": "books/covers/o-hobbit.png",
+            "total_pages": 360,
+            "categories": [ "8c4a4a4d-cbc4-4d2c-bb46-e95b0a536e09", "e9c6d3f6-f3ec-4c52-ae28-6adcbab6ee67"]
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "name": "O guia do mochileiro das galáxias",
+            "author": "Douglas Adams",
+            "summary":
+            "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
+            "cover": "books/covers/o-guia-do-mochileiro-das-galaxias.png",
+            "total_pages": 250,
+            "categories": [ "8c4a4a4d-cbc4-4d2c-bb46-e95b0a536e09", "2e65c193-325a-40c3-98f3-6c13e9b75b02"]
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "name": "A revolução dos bichos",
+            "author": "George Orwell",
+            "summary":
+            "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
+            "cover": "books/covers/Book.png",
+            "total_pages": 350,
+            "categories": [ "a1d0ee25-9c9a-49c8-84eb-7af1e0dd356d", "997f8a10-21fb-4c80-bd16-17e8b79a31a3"]
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "name": "O fim da eternidade",
+            "author": "Isaac Asimov",
+            "summary":
+            "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
+            "cover": "books/covers/o-fim-da-eternidade.png",
+            "total_pages": 165,
+            "categories": [ "8c4a4a4d-cbc4-4d2c-bb46-e95b0a536e09", "70efc33d-7d6b-4db4-bab6-524c4c4b2e2c"]
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "name": "Entendendo Algoritmos",
+            "author": "Aditya Y. Bhargava",
+            "summary":
+            "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
+            "cover": "books/covers/entendendo-algoritmos.png",
+            "total_pages": 165,
+            "categories": [ "c9f22067-4978-4a24-84a1-7d37f343dfc2", "f1a50507-0aa7-4245-8a5c-0d0de14e9d6d"]
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "name": "Código Limpo",
+            "author": "Robert C. Martin",
+            "summary":
+            "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
+            "cover": "books/covers/codigo-limpo.png",
+            "total_pages": 365,
+            "categories": [ "c9f22067-4978-4a24-84a1-7d37f343dfc2", "f1a50507-0aa7-4245-8a5c-0d0de14e9d6d"]
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "name": "O poder do hábito",
+            "author": "Charles Duhigg",
+            "summary":
+            "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
+            "cover": "books/covers/o-poder-do-habito.png",
+            "total_pages": 288,
+            "categories": [ "a4d63d4e-f8ad-4a60-b7b9-9d925a2a8a92", "f1a50507-0aa7-4245-8a5c-0d0de14e9d6d"]
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "name": "Arquitetura limpa",
+            "author": "Robert C. Martin",
+            "summary":
+            "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
+            "cover": "books/covers/arquitetura-limpa.png",
+            "total_pages": 288,
+            "categories": [ "c9f22067-4978-4a24-84a1-7d37f343dfc2", "f1a50507-0aa7-4245-8a5c-0d0de14e9d6d"]
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "name": "Histórias extraordinárias",
+            "author": "Edgar Allan Poe",
+            "summary":
+            "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
+            "cover": "books/covers/historias-extraordinarias.png",
+            "total_pages": 332,
+            "categories": [ "8c4a4a4d-cbc4-4d2c-bb46-e95b0a536e09", "7c8dc74a-2e03-4d72-96de-822e332e5530"]
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "name": "Refatoração",
+            "author": "Martin Fowler",
+            "summary":
+            "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
+            "cover": "books/covers/refatoracao.png",
+            "total_pages": 332,
+            "categories": [ "c9f22067-4978-4a24-84a1-7d37f343dfc2", "f1a50507-0aa7-4245-8a5c-0d0de14e9d6d"]
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "name": "Domain-Driven Design",
+            "author": "Eric Evans",
+            "summary":
+            "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
+            "cover": "books/covers/domain-driven-design.png",
+            "total_pages": 288,
+            "categories": [ "c9f22067-4978-4a24-84a1-7d37f343dfc2", "a2891eaa-6d9e-48d8-a86a-10aa017d3d3f"]
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "name": "Viagem ao Centro da Terra",
+            "author": "Julio Verne",
+            "summary":
+            "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
+            "cover": "books/covers/viagem-ao-centro-da-terra.png",
+            "total_pages": 288,
+            "categories": [ "70efc33d-7d6b-4db4-bab6-524c4c4b2e2c", "8c4a4a4d-cbc4-4d2c-bb46-e95b0a536e09"]
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "name": "Fragmentos do Horror",
+            "author": "Junji Ito",
+            "summary":
+            "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
+            "cover": "books/covers/fragmentos-do-horror.png",
+            "total_pages": 144,
+            "categories": [ "8c4a4a4d-cbc4-4d2c-bb46-e95b0a536e09", "a0a61b53-37d7-48ec-9b92-6db074f6d9c9"]
+        }
+    },
+    {
+        "model": "books.book",
+        "fields": {
+            "name": "O Programador Pragmático",
+            "author": "Andrew Hunt",
+            "summary":
+              "Nec tempor nunc in egestas. Euismod nisi eleifend at et in sagittis. Penatibus id vestibulum imperdiet a at imperdiet lectus leo. Sit porta eget nec vitae sit vulputate eget",
+            "cover": "books/covers/o-programador-pragmatico.png",
+            "total_pages": 205,
+            "categories": [ "c9f22067-4978-4a24-84a1-7d37f343dfc2", "f1a50507-0aa7-4245-8a5c-0d0de14e9d6d"]
+        }
+    }
+]
